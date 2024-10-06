@@ -25,6 +25,7 @@ Follow these steps to get started:
    
 2. **Navigate to the project directory:**
    cd todo-app
+
 3. **Open the application: Launch index.html in your favorite web browser to start using the app.**
 
 📋 Usage
